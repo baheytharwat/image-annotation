@@ -33,6 +33,3 @@ Accordingly to the number of classes you choose and the Images folder you specif
 - `q` to exit the program.
 - Any other key will neglect the displayed image and not label it.
 
-A folder to each class will be created and contains the labelled images.
-The folders will be created in the same path of the data folder.
-
