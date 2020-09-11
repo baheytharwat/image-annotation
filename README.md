@@ -1,6 +1,12 @@
 # image-annotation
 A python script that helps in labelling images for image classification task.
 
+## Dependencies
+Make sure that you have installed:
+- numpy
+- opencv
+- argparse
+
 ## Installation
 ##### Clone and install requirements
     $ git clone https://github.com/baheytharwat/image-annotation.git
